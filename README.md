@@ -102,11 +102,9 @@ https://localhost:xxxx/swagger
     "Maria",
     "Carlos",
     "Ana",
-    "Pedro"
+    "pedro"
   ]
 }
-
----
 
 ## 📈 Melhorias futuras
 * 🔹 Autenticação (JWT)
