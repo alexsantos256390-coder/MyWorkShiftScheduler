@@ -94,17 +94,17 @@ https://localhost:xxxx/swagger
 
 ## 📌 Exemplo de requisição
 
-```json
 {
+  "dataInicio": "2026-03-19T00:00:00Z",
+  "dataFim": "2026-03-19T00:00:00Z",
   "nomesFuncionarios": [
-    "Alex",
     "João",
     "Maria",
-    "Lucas",
+    "Carlos",
+    "Ana",
     "Pedro"
   ]
 }
-```
 
 ---
 
